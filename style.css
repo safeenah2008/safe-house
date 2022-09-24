@@ -1,0 +1,27 @@
+body{
+    background: url(sora.jpg);
+    background-size: 1500px;
+    background-repeat: no-repeat;
+}
+.container{
+    width:1000px ;
+    height: 1000px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+header{
+    text-align: left;
+    color: blue;
+image-orientation: round;
+
+
+}
+
+
+
+
+
+
+
+
